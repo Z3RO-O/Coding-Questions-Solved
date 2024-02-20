@@ -1,0 +1,40 @@
+NETWORKING
+
+
+IP Address
+MAC Address
+OSI Model
+Wifi Setting for connecting to any network other than CISCOSB
+
+KALI LINUX
+
+Download ISO file	   : https://cdimage.kali.org/kali-2023.1/kali-linux-2023.1-installer-amd64.iso
+Download Virtual file  : https://download.virtualbox.org/virtualbox/7.0.6/VirtualBox-7.0.6-155176-Win.exe
+
+Installation
+
+Commands
+
+sudo su                 : to gain root(privileges) access
+cd .. 					: go to previous directory
+cd <name of directory> 	: changes the current working directory
+cat <file name> 		: displays the contents of a file
+pwd 					: displays the present working directory
+ls 						: lists the contents of the current directory
+touch 					: creates an empty file
+mkdir 					: creates a new directory
+rmdir 					: removes a directory
+rm 						: removes a file or directory
+cp 		                : copies a file or directory
+mv                      : moves or renames a file or directory
+ps                      : displays information about running processes
+kill                    : sends a signal to a process to terminate it
+ping                    : tests network connectivity
+ifconfig                : displays network interface configuration
+netstat                 : displays network connections and statistics
+
+
+
+
+
+
